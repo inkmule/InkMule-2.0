@@ -1,0 +1,45 @@
+.navbar{
+	background-color: #0079a5;
+	background-image: none;
+	-webkit-box-shadow: 4px 4px 5px rgba(50, 50, 50, 0.2);
+	-moz-box-shadow:    4px 4px 5px rgba(50, 50, 50, 0.2);
+	box-shadow:         4px 4px 5px rgba(50, 50, 50, 0.2);
+}
+.navbar img, .navbar-brand{
+	margin: 3px 30px 0 0;
+	padding: 0;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  background-color: #005074;
+  color: #FFFFFF;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #A4A4A4;
+}
+
+.btn-default {
+  background-color: #0079a5;
+  border-color: #0079a5;
+  color: #FFFFFF;
+}
+.shadow{
+	-webkit-box-shadow: 4px 4px 5px rgba(50, 50, 50, 0.2);
+	-moz-box-shadow:    4px 4px 5px rgba(50, 50, 50, 0.2);
+	box-shadow:         4px 4px 5px rgba(50, 50, 50, 0.2);
+}
+.featurette .no-img{
+	padding-top: 20px;
+}
+.carousel .item {
+	background-color:#005074;
+}
+.nav > li > a {
+  display: block;
+  padding: 18px 18px;
+  position: relative;
+}
+.dropdown-toggle{
+	color: #fff;
+}
